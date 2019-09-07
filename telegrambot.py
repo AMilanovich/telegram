@@ -11,6 +11,7 @@ bot = telebot.TeleBot('954668606:AAER9Kv9qxd841n2FJrcpF8fgJCRLQeyscU')
 http://api.openweathermap.org/data/2.5/weather?q=Minsk,blr&APPID=e876f3b4b56e27cfc2fa61e94bcf3fb2
 
 
+
 class skoda_bot:
 
     @bot.message_handler(content_types=['text'])
